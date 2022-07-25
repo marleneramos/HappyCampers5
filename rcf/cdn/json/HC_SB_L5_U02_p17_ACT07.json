@@ -1,0 +1,19 @@
+{
+  "id": "030505d24161426b8914e79c8e3ccbf9",
+  "answers": [
+    {
+      "elm": "typein_2",
+      "type": "simple",
+      "markType": "item",
+      "markedBy": "engine",
+      "value": "I'm not going to go by helicopter"
+    },
+    {
+      "elm": "typein_3",
+      "type": "simple",
+      "markType": "item",
+      "markedBy": "engine",
+      "value": "I'm going to go by boat"
+    }
+  ]
+}

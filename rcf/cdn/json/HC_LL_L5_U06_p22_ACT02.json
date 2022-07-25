@@ -1,0 +1,47 @@
+{
+  "id": "942a6e94cd9d476e90b99bce2f5c0e17",
+  "answers": [
+    {
+      "elm": "ordering_2",
+      "type": "sequence",
+      "markType": "list",
+      "markedBy": "engine",
+      "value": [
+        "Lions",
+        "are",
+        "more",
+        "beautiful",
+        "than",
+        "lizards"
+      ]
+    },
+    {
+      "elm": "ordering_3",
+      "type": "sequence",
+      "markType": "list",
+      "markedBy": "engine",
+      "value": [
+        "Elephants",
+        "are",
+        "more",
+        "powerful",
+        "than",
+        "horses"
+      ]
+    },
+    {
+      "elm": "ordering_4",
+      "type": "sequence",
+      "markType": "list",
+      "markedBy": "engine",
+      "value": [
+        "The musician",
+        "is",
+        "more",
+        "talented",
+        "than",
+        "the ballerina"
+      ]
+    }
+  ]
+}

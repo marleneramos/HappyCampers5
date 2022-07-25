@@ -1,0 +1,19 @@
+{
+  "id": "27bfa0e6d8cf49a19e7397406c0038d7",
+  "answers": [
+    {
+      "elm": "wordsearch_1",
+      "type": "list",
+      "markType": "item",
+      "markedBy": "engine",
+      "value": [
+        "MEAN",
+        "NOISY",
+        "FRIENDLY",
+        "QUIET",
+        "FAST",
+        "SLOW"
+      ]
+    }
+  ]
+}

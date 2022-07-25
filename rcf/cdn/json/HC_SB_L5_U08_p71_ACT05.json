@@ -1,0 +1,21 @@
+{
+  "id": "cb8b154e4ce14f89a7cd1807557a5dd3",
+  "answers": [
+    {
+      "elm": "wordSnake_1",
+      "type": "list",
+      "markType": "item",
+      "markedBy": "engine",
+      "value": [
+        "wordSnake_1_L5,wordSnake_1_L6,wordSnake_1_L7,wordSnake_1_L8,wordSnake_1_L9",
+        "wordSnake_1_L15,wordSnake_1_L16,wordSnake_1_L17,wordSnake_1_L18,wordSnake_1_L19,wordSnake_1_L20,wordSnake_1_L21",
+        "wordSnake_1_L27,wordSnake_1_L28,wordSnake_1_L29,wordSnake_1_L30,wordSnake_1_L31",
+        "wordSnake_1_L36,wordSnake_1_L37,wordSnake_1_L38",
+        "wordSnake_1_L43,wordSnake_1_L44,wordSnake_1_L45,wordSnake_1_L46,wordSnake_1_L47,wordSnake_1_L48,wordSnake_1_L49,wordSnake_1_L50",
+        "wordSnake_1_L55,wordSnake_1_L56,wordSnake_1_L57,wordSnake_1_L58,wordSnake_1_L59,wordSnake_1_L60",
+        "wordSnake_1_L65,wordSnake_1_L66,wordSnake_1_L67,wordSnake_1_L68,wordSnake_1_L69",
+        "wordSnake_1_L75,wordSnake_1_L76,wordSnake_1_L77,wordSnake_1_L78,wordSnake_1_L79,wordSnake_1_L80,wordSnake_1_L81,wordSnake_1_L82,wordSnake_1_L83"
+      ]
+    }
+  ]
+}

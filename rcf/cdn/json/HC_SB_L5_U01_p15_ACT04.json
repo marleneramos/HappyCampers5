@@ -1,0 +1,38 @@
+{
+  "id": "b4fb9962bc0d487fa5d0ce3c6305ad08",
+  "answers": [
+    {
+      "elm": "crossword_1",
+      "type": "composite",
+      "markType": "item",
+      "markedBy": "engine",
+      "value": [
+        {
+          "elm": "crossword_word_1",
+          "type": "simple",
+          "value": "CELLPHONE"
+        },
+        {
+          "elm": "crossword_word_2",
+          "type": "simple",
+          "value": "EARRINGS"
+        },
+        {
+          "elm": "crossword_word_3",
+          "type": "simple",
+          "value": "WALLET"
+        },
+        {
+          "elm": "crossword_word_4",
+          "type": "simple",
+          "value": "KEYBOARD"
+        },
+        {
+          "elm": "crossword_word_5",
+          "type": "simple",
+          "value": "HARMONICA"
+        }
+      ]
+    }
+  ]
+}

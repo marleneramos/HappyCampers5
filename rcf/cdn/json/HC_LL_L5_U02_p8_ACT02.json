@@ -1,0 +1,132 @@
+{
+  "id": "c0e30f0e24da4d3f8668734511d6cf8c",
+  "answers": [
+    {
+      "elm": "typeinGroup_1",
+      "markType": "list",
+      "markedBy": "engine",
+      "type": "composite",
+      "value": [
+        {
+          "elm": "typein_1",
+          "type": "simple",
+          "markType": "item",
+          "markedBy": "engine",
+          "value": "Are"
+        }
+      ]
+    },
+    {
+      "elm": "typeinGroup_2",
+      "markType": "list",
+      "markedBy": "engine",
+      "type": "composite",
+      "value": [
+        {
+          "elm": "typein_2",
+          "type": "simple",
+          "markType": "item",
+          "markedBy": "engine",
+          "value": "I am"
+        }
+      ]
+    },
+    {
+      "elm": "typeinGroup_3",
+      "markType": "list",
+      "markedBy": "engine",
+      "type": "composite",
+      "value": [
+        {
+          "elm": "typein_3",
+          "type": "simple",
+          "markType": "item",
+          "markedBy": "engine",
+          "value": "Are you"
+        }
+      ]
+    },
+    {
+      "elm": "typeinGroup_4",
+      "markType": "list",
+      "markedBy": "engine",
+      "type": "composite",
+      "value": [
+        {
+          "elm": "typein_4",
+          "type": "simple",
+          "markType": "item",
+          "markedBy": "engine",
+          "value": "No"
+        },
+        {
+          "elm": "typein_5",
+          "type": "simple",
+          "markType": "item",
+          "markedBy": "engine",
+          "value": "not"
+        }
+      ]
+    },
+    {
+      "elm": "typeinGroup_5",
+      "markType": "list",
+      "markedBy": "engine",
+      "type": "composite",
+      "value": [
+        {
+          "elm": "typein_6",
+          "type": "simple",
+          "markType": "item",
+          "markedBy": "engine",
+          "value": "Are you going to go"
+        }
+      ]
+    },
+    {
+      "elm": "typeinGroup_6",
+      "markType": "list",
+      "markedBy": "engine",
+      "type": "composite",
+      "value": [
+        {
+          "elm": "typein_7",
+          "type": "simple",
+          "markType": "item",
+          "markedBy": "engine",
+          "value": "Yes"
+        }
+      ]
+    },
+    {
+      "elm": "typeinGroup_7",
+      "markType": "list",
+      "markedBy": "engine",
+      "type": "composite",
+      "value": [
+        {
+          "elm": "typein_8",
+          "type": "simple",
+          "markType": "item",
+          "markedBy": "engine",
+          "value": "Are you going to go to"
+        }
+      ]
+    },
+    {
+      "elm": "typeinGroup_8",
+      "markType": "list",
+      "markedBy": "engine",
+      "type": "composite",
+      "value": [
+        {
+          "elm": "typein_9",
+          "type": "simple",
+          "markType": "item",
+          "markedBy": "engine",
+          "value": "I'm not"
+        }
+      ]
+    }
+  ]
+}

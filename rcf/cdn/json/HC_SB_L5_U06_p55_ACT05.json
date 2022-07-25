@@ -1,0 +1,61 @@
+{
+  "id": "fb88b19751b04ad09d8fd99df80ebf88",
+  "answers": [
+    {
+      "elm": "ordering_2",
+      "type": "sequence",
+      "markType": "list",
+      "markedBy": "engine",
+      "value": [
+        "Fish",
+        "aren't",
+        "as",
+        "beautiful",
+        "as",
+        "birds"
+      ]
+    },
+    {
+      "elm": "ordering_3",
+      "type": "sequence",
+      "markType": "list",
+      "markedBy": "engine",
+      "value": [
+        "Books",
+        "are",
+        "more",
+        "interesting",
+        "than",
+        "movies"
+      ]
+    },
+    {
+      "elm": "ordering_4",
+      "type": "sequence",
+      "markType": "list",
+      "markedBy": "engine",
+      "value": [
+        "Trees",
+        "aren't",
+        "as",
+        "colorful",
+        "as",
+        "flowers"
+      ]
+    },
+    {
+      "elm": "ordering_5",
+      "type": "sequence",
+      "markType": "list",
+      "markedBy": "engine",
+      "value": [
+        "Cars",
+        "aren't",
+        "as",
+        "powerful",
+        "as",
+        "trains"
+      ]
+    }
+  ]
+}

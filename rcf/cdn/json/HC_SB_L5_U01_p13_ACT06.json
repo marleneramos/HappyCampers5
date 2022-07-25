@@ -1,0 +1,26 @@
+{
+  "id": "bdd37224d6084cf8897d9c25ce6ea94a",
+  "answers": [
+    {
+      "elm": "typein_1",
+      "type": "simple",
+      "markType": "item",
+      "markedBy": "engine",
+      "value": "A time capsule is for people from the future to find"
+    },
+    {
+      "elm": "typein_2",
+      "type": "simple",
+      "markType": "item",
+      "markedBy": "engine",
+      "value": "The cell phone is Eric's"
+    },
+    {
+      "elm": "typein_3",
+      "type": "simple",
+      "markType": "item",
+      "markedBy": "engine",
+      "value": "The time capsule they find isn't very old"
+    }
+  ]
+}

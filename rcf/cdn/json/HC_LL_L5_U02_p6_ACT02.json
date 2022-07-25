@@ -1,0 +1,51 @@
+{
+  "id": "12c382fd84884dc395b3cc0e3ce1843e",
+  "answers": [
+    {
+      "elm": "ordering_1",
+      "type": "sequence",
+      "markType": "list",
+      "markedBy": "engine",
+      "value": [
+        "I'm",
+        "not",
+        "going",
+        "to",
+        "go",
+        "by",
+        "car"
+      ]
+    },
+    {
+      "elm": "ordering_2",
+      "type": "sequence",
+      "markType": "list",
+      "markedBy": "engine",
+      "value": [
+        "I'm",
+        "going",
+        "to",
+        "go",
+        "by",
+        "bus"
+      ]
+    },
+    {
+      "elm": "ordering_3",
+      "type": "sequence",
+      "markType": "list",
+      "markedBy": "engine",
+      "value": [
+        "How",
+        "are",
+        "you",
+        "going",
+        "to",
+        "go",
+        "to",
+        "the",
+        "store"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "id": "69899719ca464a25b334cd45ab6670b6",
+  "answers": [
+    {
+      "elm": "ordering_1",
+      "type": "sequence",
+      "markType": "list",
+      "markedBy": "engine",
+      "value": [
+        "Whose",
+        "earrings",
+        "are",
+        "they"
+      ]
+    },
+    {
+      "elm": "ordering_2",
+      "type": "sequence",
+      "markType": "list",
+      "markedBy": "engine",
+      "value": [
+        "Whose",
+        "necklace",
+        "is",
+        "it"
+      ]
+    }
+  ]
+}

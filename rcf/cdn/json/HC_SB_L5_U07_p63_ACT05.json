@@ -1,0 +1,19 @@
+{
+  "id": "249fe494a8b74cc0a5693a54eff524b7",
+  "answers": [
+    {
+      "elm": "typein_1",
+      "type": "simple",
+      "markType": "item",
+      "markedBy": "engine",
+      "value": "She was at the skating rink"
+    },
+    {
+      "elm": "typein_2",
+      "type": "simple",
+      "markType": "item",
+      "markedBy": "engine",
+      "value": "They were at the train station"
+    }
+  ]
+}

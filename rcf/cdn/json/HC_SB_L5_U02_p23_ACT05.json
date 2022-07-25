@@ -1,0 +1,19 @@
+{
+  "id": "7b9961df6a4344bf85ccb2d26737fb1a",
+  "answers": [
+    {
+      "elm": "typein_2",
+      "type": "simple",
+      "markType": "item",
+      "markedBy": "engine",
+      "value": "I'm going to go to the bookstore by train"
+    },
+    {
+      "elm": "typein_3",
+      "type": "simple",
+      "markType": "item",
+      "markedBy": "engine",
+      "value": "I'm going to go to the hair salon by car"
+    }
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "id": "f32ac087255e43e6a94d4f5caebf277c",
+  "answers": [
+    {
+      "elm": "categorise_1",
+      "type": "composite",
+      "markType": "item",
+      "markedBy": "engine",
+      "value": [
+        {
+          "elm": "category_1",
+          "type": "list",
+          "markType": "item",
+          "markedBy": "engine",
+          "value": [
+            "item_1",
+            "item_2",
+            "item_3"
+          ]
+        },
+        {
+          "elm": "category_2",
+          "type": "list",
+          "markType": "item",
+          "markedBy": "engine",
+          "value": [
+            "item_4"
+          ]
+        },
+        {
+          "elm": "category_3",
+          "type": "list",
+          "markType": "item",
+          "markedBy": "engine",
+          "value": [
+            "item_5",
+            "item_6"
+          ]
+        },
+        {
+          "elm": "category_4",
+          "type": "list",
+          "markType": "item",
+          "markedBy": "engine",
+          "value": [
+            "item_7",
+            "item_8"
+          ]
+        }
+      ]
+    }
+  ]
+}

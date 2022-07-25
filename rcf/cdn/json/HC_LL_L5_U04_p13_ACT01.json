@@ -1,0 +1,53 @@
+{
+  "id": "30f009ca43f24b64b181d471fc5ecf30",
+  "answers": [
+    {
+      "elm": "crossword_1",
+      "type": "composite",
+      "markType": "item",
+      "markedBy": "engine",
+      "value": [
+        {
+          "elm": "crossword_word_1",
+          "type": "simple",
+          "value": "CAFETERIA"
+        },
+        {
+          "elm": "crossword_word_2",
+          "type": "simple",
+          "value": "MUSEUM"
+        },
+        {
+          "elm": "crossword_word_3",
+          "type": "simple",
+          "value": "AQUARIUM"
+        },
+        {
+          "elm": "crossword_word_4",
+          "type": "simple",
+          "value": "TOURGUIDE"
+        },
+        {
+          "elm": "crossword_word_5",
+          "type": "simple",
+          "value": "ELEVATOR"
+        },
+        {
+          "elm": "crossword_word_6",
+          "type": "simple",
+          "value": "EXHIBIT"
+        },
+        {
+          "elm": "crossword_word_7",
+          "type": "simple",
+          "value": "DINOSAUR"
+        },
+        {
+          "elm": "crossword_word_8",
+          "type": "simple",
+          "value": "GIFTSHOP"
+        }
+      ]
+    }
+  ]
+}

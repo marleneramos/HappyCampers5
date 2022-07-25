@@ -1,0 +1,26 @@
+{
+  "id": "f67db355814d4d9c84f036d325b4e909",
+  "answers": [
+    {
+      "elm": "typein_1",
+      "type": "simple",
+      "markType": "item",
+      "markedBy": "engine",
+      "value": "Dogs are more talented than lions"
+    },
+    {
+      "elm": "typein_2",
+      "type": "simple",
+      "markType": "item",
+      "markedBy": "engine",
+      "value": "Cars are more dangerous than bikes"
+    },
+    {
+      "elm": "typein_3",
+      "type": "simple",
+      "markType": "item",
+      "markedBy": "engine",
+      "value": "Books are more interesting than movies"
+    }
+  ]
+}

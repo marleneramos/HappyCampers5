@@ -1,0 +1,26 @@
+{
+  "id": "880d849e5e274147a9a1f2066876d2b1",
+  "answers": [
+    {
+      "elm": "typein_1",
+      "type": "simple",
+      "markType": "item",
+      "markedBy": "engine",
+      "value": "Are tigers faster than cheetahs"
+    },
+    {
+      "elm": "typein_2",
+      "type": "simple",
+      "markType": "item",
+      "markedBy": "engine",
+      "value": "A monkey is noisier than a giraffe"
+    },
+    {
+      "elm": "typein_3",
+      "type": "simple",
+      "markType": "item",
+      "markedBy": "engine",
+      "value": "What animal is friendlier than a shark"
+    }
+  ]
+}

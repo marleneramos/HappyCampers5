@@ -1,0 +1,33 @@
+{
+  "id": "1fc7bc9164d84dd599b884cb0dc3ea3c",
+  "answers": [
+    {
+      "elm": "typein_1",
+      "type": "simple",
+      "markType": "item",
+      "markedBy": "engine",
+      "value": "Dogs are noisier and friendlier than cats"
+    },
+    {
+      "elm": "typein_2",
+      "type": "simple",
+      "markType": "item",
+      "markedBy": "engine",
+      "value": "Giraffes are quiet and fast"
+    },
+    {
+      "elm": "typein_3",
+      "type": "simple",
+      "markType": "item",
+      "markedBy": "engine",
+      "value": "Tigers are slower than cheetahs"
+    },
+    {
+      "elm": "typein_4",
+      "type": "simple",
+      "markType": "item",
+      "markedBy": "engine",
+      "value": "Sharks are meaner than dolphins"
+    }
+  ]
+}

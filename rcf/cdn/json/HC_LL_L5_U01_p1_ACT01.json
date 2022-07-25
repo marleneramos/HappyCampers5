@@ -1,0 +1,21 @@
+{
+  "id": "8599c235232f4a0e93e884a39cc6a0f9",
+  "answers": [
+    {
+      "elm": "wordsearch_1",
+      "type": "list",
+      "markType": "item",
+      "markedBy": "engine",
+      "value": [
+        "EARRINGS",
+        "CELLPHONE",
+        "GLASSES",
+        "MONEY",
+        "WATCH",
+        "NECKLACE",
+        "WALLET",
+        "KEYS"
+      ]
+    }
+  ]
+}

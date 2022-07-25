@@ -1,0 +1,40 @@
+{
+  "id": "4e94f47f65d6499facb27642ff20eaf0",
+  "answers": [
+    {
+      "elm": "typein_2",
+      "type": "simple",
+      "markType": "item",
+      "markedBy": "engine",
+      "value": "Dolphins aren't as colorful as birds"
+    },
+    {
+      "elm": "typein_3",
+      "type": "simple",
+      "markType": "item",
+      "markedBy": "engine",
+      "value": "Jugglers are as unusual as acrobats"
+    },
+    {
+      "elm": "typein_4",
+      "type": "simple",
+      "markType": "item",
+      "markedBy": "engine",
+      "value": "Monkeys aren't as dangerous as sharks"
+    },
+    {
+      "elm": "typein_5",
+      "type": "simple",
+      "markType": "item",
+      "markedBy": "engine",
+      "value": "Helicopters aren't as powerful as airplanes"
+    },
+    {
+      "elm": "typein_6",
+      "type": "simple",
+      "markType": "item",
+      "markedBy": "engine",
+      "value": "The aquarium isn't as interesting as the museum"
+    }
+  ]
+}

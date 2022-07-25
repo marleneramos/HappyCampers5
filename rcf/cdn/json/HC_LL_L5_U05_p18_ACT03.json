@@ -1,0 +1,26 @@
+{
+  "id": "cc98b0a6ac864f7dbe0fddb5a71d66b9",
+  "answers": [
+    {
+      "elm": "typein_2",
+      "type": "simple",
+      "markType": "item",
+      "markedBy": "engine",
+      "value": "A giraffe isn't uglier than a shark"
+    },
+    {
+      "elm": "typein_3",
+      "type": "simple",
+      "markType": "item",
+      "markedBy": "engine",
+      "value": "A hippo is fatter than a camel"
+    },
+    {
+      "elm": "typein_4",
+      "type": "simple",
+      "markType": "item",
+      "markedBy": "engine",
+      "value": "A horse isn't stronger than a lion"
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "id": "1a3c67953afa4e5b9a3e68aaa36fc8a2",
+  "answers": [
+    {
+      "elm": "typein_1",
+      "type": "simple",
+      "markType": "item",
+      "markedBy": "engine",
+      "value": "Marty and Luke aren't going to stay at a hotel"
+    },
+    {
+      "elm": "typein_2",
+      "type": "simple",
+      "markType": "item",
+      "markedBy": "engine",
+      "value": "Marty and Luke are going to visit a natural history museum"
+    },
+    {
+      "elm": "typein_3",
+      "type": "simple",
+      "markType": "item",
+      "markedBy": "engine",
+      "value": "Marty and Luke are going to go to a park"
+    },
+    {
+      "elm": "typein_4",
+      "type": "simple",
+      "markType": "item",
+      "markedBy": "engine",
+      "value": "Marty and Luke are going to listen to a special tour guide"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "id": "f0ad8457ac8b4785831e11cffe914f53",
+  "answers": [
+    {
+      "elm": "typein_2",
+      "type": "simple",
+      "markType": "item",
+      "markedBy": "engine",
+      "value": "I'm not going to go to the movies by train"
+    },
+    {
+      "elm": "typein_3",
+      "type": "simple",
+      "markType": "item",
+      "markedBy": "engine",
+      "value": "I'm not going to go to school by taxi"
+    },
+    {
+      "elm": "typein_4",
+      "type": "simple",
+      "markType": "item",
+      "markedBy": "engine",
+      "value": "I'm going to go to the library by subway"
+    }
+  ]
+}

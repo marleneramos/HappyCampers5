@@ -1,0 +1,27 @@
+{
+  "id": "9eb4651a793942c88de66b46c97039a1",
+  "answers": [
+    {
+      "elm": "wordsearch_1",
+      "type": "list",
+      "markType": "item",
+      "markedBy": "engine",
+      "value": [
+        "WIN",
+        "WON",
+        "WEAR",
+        "WORE",
+        "HAVE",
+        "HAD",
+        "MAKE",
+        "MADE",
+        "SING",
+        "SANG",
+        "GIVE",
+        "GAVE",
+        "GO",
+        "WENT"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "id": "2d43b4c443e6637f548c74fe8ae10188",
+  "answers": [
+    {
+      "elm": "typein_1",
+      "type": "simple",
+      "markType": "item",
+      "markedBy": "engine",
+      "value": "They're going to take the elevator"
+    },
+    {
+      "elm": "typein_2",
+      "type": "simple",
+      "markType": "item",
+      "markedBy": "engine",
+      "value": "They aren't going to the cafeteria"
+    }
+  ]
+}
